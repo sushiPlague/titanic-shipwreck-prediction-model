@@ -1,3 +1,3 @@
-# :ocean: :ship: 
+# <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg" alt="Titanic sinking painting">
 
-[View the Jupyter Notebook](titanic_shipwreck.ipynb) (:warning: Data Dictionary displayed incorrectly when the notebook is viewed on GitHub)
+[View the Jupyter Notebook for more details about the project](titanic_shipwreck.ipynb) (:warning: Data Dictionary displayed incorrectly when the notebook is viewed on GitHub)
